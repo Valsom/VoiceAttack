@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valsom.VoiceAttack", "Valsom.VoiceAttack\Valsom.VoiceAttack.csproj", "{AD3C1AC9-EEBE-4C4A-B8A0-2E765C4C7052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valsom.VoiceAttack.Tests", "Valsom.VoiceAttack.Tests\Valsom.VoiceAttack.Tests.csproj", "{92E0380A-2459-42AB-BC75-6CDC28BA4CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3C1AC9-EEBE-4C4A-B8A0-2E765C4C7052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3C1AC9-EEBE-4C4A-B8A0-2E765C4C7052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3C1AC9-EEBE-4C4A-B8A0-2E765C4C7052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3C1AC9-EEBE-4C4A-B8A0-2E765C4C7052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E0380A-2459-42AB-BC75-6CDC28BA4CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E0380A-2459-42AB-BC75-6CDC28BA4CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E0380A-2459-42AB-BC75-6CDC28BA4CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E0380A-2459-42AB-BC75-6CDC28BA4CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
