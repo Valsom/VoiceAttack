@@ -19,6 +19,10 @@ namespace Valsom.VoiceAttack
     {
         private readonly dynamic _vaProxy;
 
+        /// <summary>
+        /// Creates a new VoiceAttackProxy object
+        /// </summary>
+        /// <param name="vaProxy"></param>
         public VoiceAttackProxy(dynamic vaProxy)
         {
             _vaProxy = vaProxy;
