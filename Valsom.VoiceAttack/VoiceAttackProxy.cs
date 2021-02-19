@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-using Microsoft.Extensions.Logging;
-
 using Valsom.VoiceAttack.Abstractions;
 using Valsom.VoiceAttack.Audio;
 using Valsom.VoiceAttack.Commands;

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-
-using Microsoft.Extensions.Logging;
 
 namespace Valsom.VoiceAttack.Variables
 {
